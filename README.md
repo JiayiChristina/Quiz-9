@@ -11,4 +11,4 @@ I was inspired by the Matrix sequence that zooms in, distorts and transforms on-
 Based on the inspiration I drew from the Matrix, I discovered the use of particle simulation on p5.js to create dynamic random flow patterns. As the particles flow the screen leaves traces. The effect of random ripples and distortions can be simulated very well using this programming technique. Adding it to my homework can be a better way to accomplish my goals
 
 ![Slime Molds](Slime%20Molds%20Patt%20Vira.png)  
-![Slime Molds Patt Vira](https://p5js.org/sketches/2213463/)
+[Slime Molds Patt Vira](https://p5js.org/sketches/2213463/)
